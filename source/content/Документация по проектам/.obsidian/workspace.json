@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Тестовая заметка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Тестовая заметка"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "301f51d4837bc1d1",
   "lastOpenFiles": [
-    "Some note.md",
-    "Test notes.md",
-    "index.md"
+    "Содержание.md",
+    "Тестовая заметка.md",
+    "Приветствие.md"
   ]
 }
